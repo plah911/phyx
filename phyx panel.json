@@ -1,13 +1,13 @@
-phyx_v1 = {
-    use_whitelist = true,
-    activate_script = true,
-    blacklist_user = true,
-    whitelisted = {
+{
+    "use_whitelist": true,
+    "activate_script": true,
+    "blacklist_user": true,
+    "whitelisted": [
         "11,h",
         "12,h"
-    },
-    blacklisted = {
+    ],
+    "blacklisted": [
         "13,h",
         "14,h"
-    }
+    ]
 }
