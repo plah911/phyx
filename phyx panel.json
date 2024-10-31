@@ -3,11 +3,11 @@ phyx_v1 = {
     activate_script = true,
     blacklist_user = true,
     whitelisted = {
-        "",
-        ""
+        "11,h",
+        "12,h"
     },
     blacklisted = {
-        "",
-        ""
+        "13,h",
+        "14,h"
     }
 }
