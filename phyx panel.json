@@ -1,0 +1,13 @@
+phyx_v1 = {
+    use_whitelist = true,
+    activate_script = true,
+    blacklist_user = true,
+    whitelisted = {
+        "",
+        ""
+    },
+    blacklisted = {
+        "",
+        ""
+    }
+}
