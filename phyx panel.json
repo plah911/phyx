@@ -1,6 +1,6 @@
 {
     "use_whitelist": false,
-    "activate_script": true,
+    "activate_script": false,
     "blacklist_user": true,
     "whitelisted": [
         "11,h",
