@@ -1,5 +1,5 @@
 {
-    "use_whitelist": false,
+    "use_whitelist": true,
     "activate_script": false,
     "blacklist_user": true,
     "whitelisted": [
